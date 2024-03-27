@@ -180,7 +180,7 @@ const Calculator = ({category}) => {
                             <h1 className="breach-header">การคำนวนระดับความร้ายแรงของเหตุการละเมิดข้อมูลส่วนบุคคล</h1>
                             <div className="recommendation-container">
                                 <h2>คำแนะนำการใช้งาน: </h2>
-                                    <p className="description-list">1. แบบการประเมินนี้ มีวัตถุประสงค์เพื่อช่วยให้ผู้ใช้งานสามารถประเมินระดับความร้ายแรงของความเสี่ยงได้ในเบื้องต้นเท่านั้น ไม่สามารถนำมาเป็นหลักการเดียวในการปรับใช้ได้ ผู้ใช้งานควรประเมินปัจจัยอื่นๆ ร่วมด้วยตามที่ระบุไว้ในกฎหมาย</p>
+                                    <p className="description-list">1. แบบการประเมินนี้ มีวัตถุประสงค์เพื่อช่วยให้ผู้ใช้งานสามารถประเมินระดับความร้ายแรงของเหตุการละเมิดข้อมูลส่วนบุคคลได้ในเบื้องต้นเท่านั้น ไม่สามารถนำมาเป็นหลักการเดียวในการปรับใช้ได้ ผู้ใช้งานควรประเมินปัจจัยอื่นๆ ร่วมด้วยตามที่ระบุไว้ในกฎหมาย</p>
                                     <p className="description-list">2. แบบการประเมินนี้ นำมาจาก Recommendations for a methodology of the assessment of severity of personal data breaches Working Document, v1.0, December 2013 ของ European Union Agency for Network and Information Security (ENISA) ผู้ใช้งานสามารถศึกษาเพิ่มเติมได้ที่ 
                                         <a className="link" href="https://www.enisa.europa.eu/publications/dbn-severity" target="_blank">ENISA link</a>
                                     </p>
