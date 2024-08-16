@@ -127,6 +127,10 @@ a {
   background:#FF0000;
 }
 
+.bold {
+  font-weight:bold;
+}
+
 
 .Footer {
   /* border: 3px solid; */
@@ -209,6 +213,11 @@ button:hover {
 .description-list{
   text-align: left;
   margin: 20px;
+}
+
+.contact{
+  text-align: middle;
+  margin: 60px;
 }
 
 .link{

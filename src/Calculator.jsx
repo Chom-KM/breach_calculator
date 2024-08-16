@@ -184,6 +184,9 @@ const Calculator = ({category}) => {
                                     <p className="description-list">2. แบบการประเมินนี้ นำมาจาก Recommendations for a methodology of the assessment of severity of personal data breaches Working Document, v1.0, December 2013 ของ European Union Agency for Network and Information Security (ENISA) ผู้ใช้งานสามารถศึกษาเพิ่มเติมได้ที่ 
                                         <a className="link" href="https://www.enisa.europa.eu/publications/dbn-severity" target="_blank">ENISA link</a>
                                     </p>
+                                    <p className="contact">Contact information
+                                        <p className="bold">E-mail: kasamapornchom@gmail.com</p>
+                                    </p>
                             </div>
                         </div>
                         <div>
